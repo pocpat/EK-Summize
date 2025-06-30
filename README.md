@@ -31,7 +31,7 @@ ______________________________________________________________________
 # 🌐 Live Demo
 
 ![App Screenshot](assets/smrzr.jpg )
-The app is deployed on Netlify! You can try it out here:  [EK-Summize on Netlify](https://curious-kelpie-5a8405.netlify.app/)
+The app is deployed on Netlify! You can try it out here:  [EK-Summize on Netlify](https://ek-summize.netlify.app/))
 
 ____________________________________________________________________
 
